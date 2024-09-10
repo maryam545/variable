@@ -1,10 +1,10 @@
 let age = 10.5;
 if (age >= 18) {
-  console.log(`18`);
+  console.log(`you are an adult`);
 } else if (13 <= age && 18 > age) {
-  console.log(`17`);
+  console.log(`you are a teenager`);
 } else if (age <= 13) {
-  console.log(`13`);
+  console.log(`you are a child`);
 }
 
 // convert score to grade letters
