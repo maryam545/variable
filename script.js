@@ -22,16 +22,16 @@
 // } else if (score < 50) {
 //   console.log(`D`);
 // }
-
-let weightUser = 90;
-let heightUser = 1.59;
-let bmi = weightUser / (heightUser * heightUser);
-if (bmi < 18.5) {
-  console.log(`under weifht`);
-} else if (bmi >= 18.5 && bmi < 25) {
-  console.log(`normal weight`);
-} else if (bmi >= 25 && bmi < 30) {
-  console.log(`over weight`);
-} else {
-  console.log(`obese`);
-}
+//BMI
+// let weightUser = 90;
+// let heightUser = 1.59;
+// let bmi = weightUser / (heightUser * heightUser);
+// if (bmi < 18.5) {
+//   console.log(`under weifht`);
+// } else if (bmi >= 18.5 && bmi < 25) {
+//   console.log(`normal weight`);
+// } else if (bmi >= 25 && bmi < 30) {
+//   console.log(`over weight`);
+// } else {
+//   console.log(`obese`);
+// }
